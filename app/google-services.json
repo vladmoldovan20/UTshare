@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564939355070",
+    "firebase_url": "https://utshare-afc83.firebaseio.com",
+    "project_id": "utshare-afc83",
+    "storage_bucket": "utshare-afc83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564939355070:android:a43b1686813f3f40",
+        "android_client_info": {
+          "package_name": "moldovan.vlad.utshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564939355070-i93gsk312aom85l0jjce3c8e9ma8hgar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moldovan.vlad.utshare",
+            "certificate_hash": "da73431aeec17024f064ed3398ccccd14375eea0"
+          }
+        },
+        {
+          "client_id": "564939355070-iappunq77uaqt6l0seeadjbm3m4op727.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_KKkNV00Uq_636LO6aXi9yT-0ivuDCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564939355070-iappunq77uaqt6l0seeadjbm3m4op727.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
